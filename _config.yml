@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://Lpistos.github.io" # the base hostname & protocol for your site
-cover: "/assets/cragit1.jpg"
+cover: "/assets/cragit1.png"
 logo: "/assets/8br-round.png"
 
 # Build settings
