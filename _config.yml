@@ -41,7 +41,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-# disqus_shortname: crapistos
+disqus_shortname: crapistos
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
